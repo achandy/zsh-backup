@@ -13,11 +13,11 @@
             <string>/Users/allanchandy/code/zsh-backup/sync_zshrc.sh</string>
         </array>
         <key>StandardOutPath</key>
-        <string>/Users/eastagile/tmp/com.imbaggaarm.sync-zshrc.stdout</string>
+        <string>/Users/allanchandy/tmp/com.allanchandy.sync-zshrc.stdout</string>
         <key>StandardErrorPath</key>
-        <string>/Users/eastagile/tmp/com.imbaggaarm.sync-zshrc.stderr</string>
+        <string>/Users/allanchandy/tmp/com.allanchandy.sync-zshrc.stderr</string>
         <key>WorkingDirectory</key>
-        <string>/Users/eastagile/code/zsh-backup</string>
+        <string>/Users/allanchandy/code/zsh-backup</string>
         <key>KeepAlive</key>
         <true/>
      </dict>
